@@ -6,8 +6,8 @@ This project involves the application of various statistical, mathematical, and 
 Libraries and Tools
 Statistical and Mathematical Libraries
 
-    Pandas: Used for data manipulation and analysis.
-    NumPy: Used for numerical operations and handling arrays.
+Pandas: Used for data manipulation and analysis.
+NumPy: Used for numerical operations and handling arrays.
 
 Deep Neural Network Libraries
 
